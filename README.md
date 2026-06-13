@@ -2,6 +2,8 @@
 
 A curated list of AI platforms and APIs offering free tokens, credits, and generous free tiers for developers and researchers.
 
+💰 **Total Value:** Over **$585** in free starting credits, **$56** in daily allowances, and billions of free monthly tokens!
+
 ## Contents
 
 - [Large Language Models (LLMs)](#large-language-models-llms)
