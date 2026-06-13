@@ -36,7 +36,7 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 ## Audio & Speech
 
 * [Deepgram](https://deepgram.com/) - Fast and accurate speech-to-text API. Offers $200 in free credits for new signups (covers ~45,000+ minutes of audio transcription).
-* [ElevenLabs](https://elevenlabs.io/) - High-quality AI voice generator. Offers a free tier with 10,000 characters per month.
+* [ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt) - High-quality AI voice generator. Offers a free tier with 10,000 characters per month.
 
 ## Embeddings
 
