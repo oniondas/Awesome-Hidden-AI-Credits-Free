@@ -14,6 +14,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 
 ## Large Language Models (LLMs)
 
+* [AgentRouter](https://agentrouter.org/register?aff=qwl4) - API aggregator offering access to Claude (Opus, Sonnet), DeepSeek v4, and GLM-5.1. Provides a massive $175.00 starting bonus.
 * [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number.
 * [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) - API aggregator providing access to dozens of models including GPT-4o, Gemini 1.5 Pro, Kimi, Llama 3 70B, and Qwen. Offers an $8 daily allowance and a $100 starting bonus.
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free to use for learning, prototyping, and non-commercial deployment.
