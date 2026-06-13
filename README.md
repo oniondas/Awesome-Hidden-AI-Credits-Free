@@ -47,6 +47,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 
 ## Multi-Modal & All-in-One
 
+* [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Extremely generous free tier for developers and server-side applications.
 * [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models without infrastructure.
 
 ## Local Proxies & Gateways
