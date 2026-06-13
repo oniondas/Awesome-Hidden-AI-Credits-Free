@@ -21,10 +21,10 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 * [Freemodel](https://freemodel.dev/invite/FRE-9348d48f) - Offers access to Claude 3 (Opus, Sonnet, Haiku), GPT-5.5, and more. Gives a $100 starting bonus and $10 per 5 hours on their free tier.
 * [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) - API aggregator providing access to dozens of models including GPT-4o, Gemini 1.5 Pro, Kimi, Llama 3 70B, and Qwen. Offers an $8 daily allowance and a $100 starting bonus.
 * [FreeLLMAPI](https://freellmapi.co/) - Provides access to 81 free models and 114 endpoints with an incredible allowance of ~1.7B free tokens per month.
-* [Freebuff](https://freebuff.com/) - Ad-supported CLI providing free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. Features a "full mode" for select regions and "limited mode" globally.
+* [Freebuff](https://freebuff.com/) - Ad-supported CLI providing free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. Features unlimited usage supported by terminal text ads ("full mode" for select regions, "limited mode" globally).
 * [OpenRouter](https://openrouter.ai/) - A unified API for accessing dozens of different LLMs. Offers several completely free models (e.g., Llama 3 8B, Gemma) to use indefinitely (capped at 20 RPM and 50 requests/day).
 * [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models at staggering speeds (Limits: 30 RPM, up to 30,000 TPM, and 14,400 requests/day).
-* [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number.
+* [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number (covers ~1.5M input tokens on Sonnet 3.5).
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free for non-commercial prototyping (Trial key limits: 20 RPM and 1,000 calls/month).
 * [Mistral AI](https://console.mistral.ai/) - Leading European lab. Offers a free "Experiment" tier on La Plateforme with strict rate limits (data may be used for training).
 * [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models (1.5 Pro, 1.5 Flash). Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
@@ -33,11 +33,11 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 
 * [Tensor.art](https://tensor.art/) - Free image generation and model hosting platform. Offers 50 free generation credits daily.
 * [Leonardo.ai](https://leonardo.ai/) - Advanced image generation platform offering 150 fast tokens per day on their free tier.
-* [Stability AI](https://platform.stability.ai/) - Leading open-source generative AI company. Provides 25 free starting credits for their API.
+* [Stability AI](https://platform.stability.ai/) - Leading open-source generative AI company. Provides 25 free starting credits for their API (~25 free image generations).
 
 ## Audio & Speech
 
-* [Deepgram](https://deepgram.com/) - Fast and accurate speech-to-text API. Offers $200 in free credits for new signups.
+* [Deepgram](https://deepgram.com/) - Fast and accurate speech-to-text API. Offers $200 in free credits for new signups (covers ~45,000+ minutes of audio transcription).
 * [ElevenLabs](https://elevenlabs.io/) - High-quality AI voice generator. Offers a free tier with 10,000 characters per month.
 
 ## Embeddings
@@ -47,7 +47,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 
 ## Multi-Modal & All-in-One
 
-* [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Extremely generous free tier for developers and server-side applications.
+* [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Server-side secret keys have no rate limits, while client-side keys are limited to 1 request/hr per IP.
 * [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models (dynamic rate limits, roughly under ~5M tokens/mo).
 
 ## Local Proxies & Gateways
