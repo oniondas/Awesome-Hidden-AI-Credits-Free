@@ -9,6 +9,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 - [Audio & Speech](#audio--speech)
 - [Embeddings](#embeddings)
 - [Multi-Modal & All-in-One](#multi-modal--all-in-one)
+- [Local Proxies & Gateways](#local-proxies--gateways)
 
 ---
 
@@ -46,6 +47,11 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 
 * [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models without infrastructure.
 * [Replicate](https://replicate.com/) - Run open-source models (LLMs, image generation, audio) with an API. Offers a small amount of free credits to test out models when you sign up.
+
+## Local Proxies & Gateways
+
+* [gaca-core](https://github.com/gacabartosz/gaca-core) - Universal AI proxy. Clone the repo, add your free API keys from providers like Gemini, Groq, Mistral, Cerebras (no credit card needed anywhere), and point any OpenAI-compatible SDK at localhost.
+* [LiteLLM](https://github.com/BerriAI/litellm) - Run a local proxy server to unify all your free API keys into a single, OpenAI-compatible localhost endpoint.
 
 ---
 
