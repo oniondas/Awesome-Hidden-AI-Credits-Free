@@ -2,7 +2,7 @@
 
 A curated list of AI platforms and APIs offering free tokens, credits, and generous free tiers for developers and researchers.
 
-💰 **Total Value:** Over **$585** in free starting credits ($175 AgentRouter + $200 Deepgram + $100 Freemodel + $100 Bluesminds + others), **$56** in daily recurring allowances, and **over 1.7 Billion** free monthly tokens!
+💰 **Total Value (in Tokens):** Over **3 Billion tokens** in free starting bonuses (equivalent to $585+), **250+ Million tokens per day** in recurring allowances, plus **1.7+ Billion** explicitly free monthly tokens!
 
 ## Contents
 
