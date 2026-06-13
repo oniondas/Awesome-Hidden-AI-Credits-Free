@@ -13,6 +13,7 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 > * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** Provides a massive $175 starting bonus and instant access to top-tier models like **Claude Opus 4.8** and **DeepSeek V4**.
 > * **[Freemodel](https://freemodel.dev/invite/FRE-9348d48f):** Offers a $100 starting bonus and features free access to the cutting-edge **GPT-5.5** and the Claude family.
 > * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** A daily allowance platform giving you recurring free access to **GPT-4o**, **Gemini 1.5 Pro**, and **Llama 3 70B**.
+> * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** The undisputed leader in ultra-realistic AI voice generation. Features a generous free tier of 10,000 characters per month.
 
 ---
 
