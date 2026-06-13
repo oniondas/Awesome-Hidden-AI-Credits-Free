@@ -1,4 +1,4 @@
-# Awesome Hidden AI Gems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Hidden AI Credits Free [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 🔄 **Updated Weekly:** This repository is actively maintained and audited every single week to ensure all free limits, starting bonuses, and links are 100% legit and working.
 
