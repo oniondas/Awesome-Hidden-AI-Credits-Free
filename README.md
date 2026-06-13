@@ -18,6 +18,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 * [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number.
 * [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) - API aggregator providing access to dozens of models including GPT-4o, Gemini 1.5 Pro, Kimi, Llama 3 70B, and Qwen. Offers an $8 daily allowance and a $100 starting bonus.
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free to use for learning, prototyping, and non-commercial deployment.
+* [FreeLLMAPI](https://freellmapi.co/) - Provides access to 81 free models and 114 endpoints with an incredible allowance of ~1.7B free tokens per month.
 * [Freemodel](https://freemodel.dev/invite/FRE-9348d48f) - Offers access to Claude 3 (Opus, Sonnet, Haiku), GPT-5.5, and more. Gives a $100 starting bonus and $10 per 5 hours on their free tier.
 * [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models (1.5 Pro, 1.5 Flash). Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
 * [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models like LLaMA 3 and Mixtral at staggering speeds (Free Beta).
