@@ -31,7 +31,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 
 ## Image Generation
 
-* [Tensor.art](https://tensor.art/) - Free image generation and model hosting platform. Offers 100 free generation credits daily.
+* [Tensor.art](https://tensor.art/) - Free image generation and model hosting platform. Offers 50 free generation credits daily.
 * [Leonardo.ai](https://leonardo.ai/) - Advanced image generation platform offering 150 fast tokens per day on their free tier.
 * [Stability AI](https://platform.stability.ai/) - Leading open-source generative AI company. Provides 25 free starting credits for their API.
 
@@ -43,11 +43,10 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 ## Embeddings
 
 * [Voyage AI](https://dash.voyageai.com/) - State-of-the-art embedding models optimized for RAG. Extremely generous free monthly token allowance (50M tokens/month).
-* [Jina AI](https://jina.ai/embeddings) - Powerful embeddings API with 1 million free tokens available to test their models.
+* [Jina AI](https://jina.ai/embeddings) - Powerful embeddings API with 10 million free tokens available to test their models.
 
 ## Multi-Modal & All-in-One
 
-* [Replicate](https://replicate.com/) - Run open-source models (LLMs, image generation, audio) with an API. Offers a small amount of free credits to test out models when you sign up.
 * [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models without infrastructure.
 
 ## Local Proxies & Gateways
