@@ -22,11 +22,11 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 * [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) - API aggregator providing access to dozens of models including GPT-4o, Gemini 1.5 Pro, Kimi, Llama 3 70B, and Qwen. Offers an $8 daily allowance and a $100 starting bonus.
 * [FreeLLMAPI](https://freellmapi.co/) - Provides access to 81 free models and 114 endpoints with an incredible allowance of ~1.7B free tokens per month.
 * [Freebuff](https://freebuff.com/) - Ad-supported CLI providing free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. Features a "full mode" for select regions and "limited mode" globally.
-* [OpenRouter](https://openrouter.ai/) - A unified API for accessing dozens of different LLMs. Offers several completely free models (e.g., Llama 3 8B, Gemma) to use indefinitely.
-* [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models like LLaMA 3 and Mixtral at staggering speeds (Free Beta).
+* [OpenRouter](https://openrouter.ai/) - A unified API for accessing dozens of different LLMs. Offers several completely free models (e.g., Llama 3 8B, Gemma) to use indefinitely (capped at 20 RPM and 50 requests/day).
+* [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models at staggering speeds (Limits: 30 RPM, up to 30,000 TPM, and 14,400 requests/day).
 * [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number.
-* [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free to use for learning, prototyping, and non-commercial deployment.
-* [Mistral AI](https://console.mistral.ai/) - Leading European AI lab offering highly capable open and commercial models with a free tryout through Le Chat and La Plateforme.
+* [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free for non-commercial prototyping (Trial key limits: 20 RPM and 1,000 calls/month).
+* [Mistral AI](https://console.mistral.ai/) - Leading European lab. Offers a free "Experiment" tier on La Plateforme with strict rate limits (data may be used for training).
 * [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models (1.5 Pro, 1.5 Flash). Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
 
 ## Image Generation
@@ -48,7 +48,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 ## Multi-Modal & All-in-One
 
 * [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Extremely generous free tier for developers and server-side applications.
-* [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models without infrastructure.
+* [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models (dynamic rate limits, roughly under ~5M tokens/mo).
 
 ## Local Proxies & Gateways
 
