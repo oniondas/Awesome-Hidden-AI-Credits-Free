@@ -1,8 +1,8 @@
-# Awesome Free AI Tokens [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Hidden AI Gems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of AI platforms and APIs offering free tokens, credits, and generous free tiers for developers and researchers.
+A curated list of hidden AI platforms, proxies, and APIs offering massive free token allowances, daily credits, and generous free tiers for developers and researchers.
 
-💰 **Total Value (Across All Categories):** Over **$580** in free starting credits (~3 Billion tokens), **$56** in daily recurring allowances, **200 free image generations per day**, **10,000 TTS characters/mo**, and **over 1.76 Billion** explicitly free monthly tokens!
+💰 **Total Value:** Over **10 Billion free tokens per month** (Equivalent to **$1,600+ USD/month**)!
 
 ## Contents
 
@@ -22,9 +22,7 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 * [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) - API aggregator providing access to dozens of models including GPT-4o, Gemini 1.5 Pro, Kimi, Llama 3 70B, and Qwen. Offers an $8 daily allowance and a $100 starting bonus.
 * [FreeLLMAPI](https://freellmapi.co/) - Provides access to 81 free models and 114 endpoints with an incredible allowance of ~1.7B free tokens per month.
 * [Freebuff](https://freebuff.com/) - Ad-supported CLI providing free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. Features unlimited usage supported by terminal text ads ("full mode" for select regions, "limited mode" globally).
-* [OpenRouter](https://openrouter.ai/) - A unified API for accessing dozens of different LLMs. Offers several completely free models (e.g., Llama 3 8B, Gemma) to use indefinitely (capped at 20 RPM and 50 requests/day).
 * [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models at staggering speeds (Limits: 30 RPM, up to 30,000 TPM, and 14,400 requests/day).
-* [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number (covers ~1.5M input tokens on Sonnet 3.5).
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free for non-commercial prototyping (Trial key limits: 20 RPM and 1,000 calls/month).
 * [Mistral AI](https://console.mistral.ai/) - Leading European lab. Offers a free "Experiment" tier on La Plateforme with strict rate limits (data may be used for training).
 * [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models (1.5 Pro, 1.5 Flash). Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
