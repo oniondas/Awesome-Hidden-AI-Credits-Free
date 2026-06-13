@@ -1,5 +1,7 @@
 # Awesome Hidden AI Gems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> 🔄 **Updated Weekly:** This repository is actively maintained and audited every single week to ensure all free limits, starting bonuses, and links are 100% legit and working.
+
 A curated list of hidden AI platforms, proxies, and APIs offering massive free token allowances, daily credits, and generous free tiers for developers and researchers.
 
 💰 **Total Value:** Over **10 Billion free tokens per month** (Equivalent to **$1,600+ USD/month**)!
