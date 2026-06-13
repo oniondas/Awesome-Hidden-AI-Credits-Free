@@ -2,7 +2,7 @@
 
 A curated list of AI platforms and APIs offering free tokens, credits, and generous free tiers for developers and researchers.
 
-💰 **Total Value (in Tokens):** Over **3 Billion tokens** in free starting bonuses (equivalent to $585+), **250+ Million tokens per day** in recurring allowances, plus **1.7+ Billion** explicitly free monthly tokens!
+💰 **Total Value (in Tokens):** Over **3 Billion tokens** in free starting bonuses (equivalent to $580+), **250+ Million tokens per day** in recurring allowances, plus **1.7+ Billion** explicitly free monthly tokens!
 
 ## Contents
 
@@ -23,7 +23,6 @@ A curated list of AI platforms and APIs offering free tokens, credits, and gener
 * [FreeLLMAPI](https://freellmapi.co/) - Provides access to 81 free models and 114 endpoints with an incredible allowance of ~1.7B free tokens per month.
 * [Freebuff](https://freebuff.com/) - Ad-supported CLI providing free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. Features a "full mode" for select regions and "limited mode" globally.
 * [OpenRouter](https://openrouter.ai/) - A unified API for accessing dozens of different LLMs. Offers several completely free models (e.g., Llama 3 8B, Gemma) to use indefinitely.
-* [Together AI](https://api.together.xyz/) - Cloud platform for building and running generative AI. Gives you $5 to start, which covers millions of tokens for open models.
 * [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models like LLaMA 3 and Mixtral at staggering speeds (Free Beta).
 * [Anthropic](https://console.anthropic.com/) - Creator of the Claude 3 family. New accounts receive $5 in free credits upon verifying a phone number.
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free to use for learning, prototyping, and non-commercial deployment.
