@@ -2,7 +2,7 @@
 
 A curated list of AI platforms and APIs offering free tokens, credits, and generous free tiers for developers and researchers.
 
-💰 **Total Value (in Tokens):** Over **3 Billion tokens** in free starting bonuses (equivalent to $580+), **250+ Million tokens per day** in recurring allowances, plus **1.7+ Billion** explicitly free monthly tokens!
+💰 **Total Value (Across All Categories):** Over **$580** in free starting credits (~3 Billion tokens), **$56** in daily recurring allowances, **200 free image generations per day**, **10,000 TTS characters/mo**, and **over 1.76 Billion** explicitly free monthly tokens!
 
 ## Contents
 
