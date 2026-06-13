@@ -39,17 +39,20 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free for non-commercial prototyping (Trial key limits: 20 RPM and 1,000 calls/month).
 * [Mistral AI](https://console.mistral.ai/) - Leading European lab. Offers a free "Experiment" tier on La Plateforme with strict rate limits (data may be used for training).
 * [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models (1.5 Pro, 1.5 Flash). Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
+* [Sarvam AI](https://sarvam.ai/) - Indian AI startup offering highly capable Indic language LLMs. New accounts receive a ₹100 free credit bonus.
 
 ## Image Generation
 
 * [Tensor.art](https://tensor.art/) - Free image generation and model hosting platform. Offers 50 free generation credits daily.
 * [Leonardo.ai](https://leonardo.ai/) - Advanced image generation platform offering 150 fast tokens per day on their free tier.
 * [Stability AI](https://platform.stability.ai/) - Leading open-source generative AI company. Provides 25 free starting credits for their API (~25 free image generations).
+* [Google Flow](https://labs.google/fx/tools/flow) - Free creative studio powered by Imagen 3. Offers a daily allotment of credits for high-fidelity text-to-image creation.
 
 ## Audio & Speech
 
 * [Deepgram](https://deepgram.com/) - Fast and accurate speech-to-text API. Offers $200 in free credits for new signups (covers ~45,000+ minutes of audio transcription).
 * [ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt) - High-quality AI voice generator. Offers a free tier with 10,000 characters per month.
+* [Sarvam AI](https://sarvam.ai/) - Provides state-of-the-art Indic Speech-to-Text and Text-to-Speech APIs. Start with a ₹100 free credit bonus.
 
 ## Embeddings
 
@@ -60,6 +63,7 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 
 * [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Server-side secret keys have no rate limits, while client-side keys are limited to 1 request/hr per IP.
 * [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models (dynamic rate limits, roughly under ~5M tokens/mo).
+* [Sarvam AI](https://sarvam.ai/) - A unified platform for Indian language LLMs, speech generation, and document digitization. Offers ₹100 in starting credits.
 
 ## Local Proxies & Gateways
 
