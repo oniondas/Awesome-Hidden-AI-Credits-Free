@@ -72,6 +72,12 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 
 Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
+## ⭐ Support This Project
+
+If you found this list helpful, please **give it a star** 🌟 on GitHub! It helps others discover these amazing free resources and keeps the project growing. 
+
+Share it with your developer friends, or on Twitter/Reddit/Discord to spread the word!
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
