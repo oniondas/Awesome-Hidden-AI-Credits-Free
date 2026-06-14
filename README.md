@@ -40,8 +40,8 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 * [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models at staggering speeds (Limits: 30 RPM, up to 30,000 TPM, and 14,400 requests/day).
 * [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free for non-commercial prototyping (Trial key limits: 20 RPM and 1,000 calls/month).
 * [Mistral AI](https://console.mistral.ai/) - Leading European lab. Offers a free "Experiment" tier on La Plateforme with strict rate limits (data may be used for training).
-* [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models (1.5 Pro, 1.5 Flash). Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
-* [Sarvam AI](https://sarvam.ai/) - Indian AI startup offering highly capable Indic language LLMs. New accounts receive a ₹100 free credit bonus.
+* [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models. Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
+* [Sarvam AI](https://sarvam.ai/) - Indian AI startup offering highly capable Indic language LLMs. New accounts receive a ₹1000 free credit bonus.
 
 ## Image Generation
 
@@ -65,7 +65,7 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 
 * [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Server-side secret keys have no rate limits, while client-side keys are limited to 1 request/hr per IP.
 * [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models (dynamic rate limits, roughly under ~5M tokens/mo).
-* [Sarvam AI](https://sarvam.ai/) - A unified platform for Indian language LLMs, speech generation, and document digitization. Offers ₹100 in starting credits.
+* [Sarvam AI](https://sarvam.ai/) - A unified platform for Indian language LLMs, speech generation, and document digitization. Offers ₹1000 in starting credits.
 
 ## Local Proxies & Gateways
 
