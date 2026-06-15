@@ -1,21 +1,21 @@
 # Awesome Hidden AI Credits Free [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🔄 **Updated Weekly:** This repository is actively maintained and audited every single week to ensure all free limits, starting bonuses, and links are 100% legit and working.
+> 🔄 **Updated Weekly:** I check this repository every week to make sure all the free limits, starting bonuses, and links actually work.
 
-A curated list of hidden AI platforms, proxies, and APIs offering massive free token allowances, daily credits, and generous free tiers for developers and researchers.
+A list of lesser-known AI platforms, proxies, and APIs that give out generous free tokens, daily credits, and solid free tiers for developers and researchers.
 
-💰 **Total Value:** Over **10 Billion free tokens per month** (Equivalent to **$1,600+ USD/month**)!
+💰 **Total Value:** Around **10 Billion free tokens per month** (roughly **$1,600+ USD/month**)!
 
 ---
 
-> ### 🌟 Featured Top Picks (Latest Models)
+> ### 🌟 Featured Top Picks
 > 
-> If you are looking for the absolute smartest and most cutting-edge models (like **Claude Opus 4.8**, **GPT-5.5**, and **DeepSeek V4**), these are the best places to start:
+> If you want to try out the newest models (like **Claude Opus 4.8**, **GPT-5.5**, and **DeepSeek V4**), start here:
 > 
-> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** Provides a massive $175 starting bonus and instant access to top-tier models like **Claude Opus 4.8** and **DeepSeek V4**.
-> * **[Freemodel](https://freemodel.dev/invite/FRE-9348d48f):** Offers a $100 starting bonus and features free access to the cutting-edge **GPT-5.5** and the Claude family.
-> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** A daily allowance platform giving you recurring free access to **GPT-4o**, **Gemini 1.5 Pro**, and **Llama 3 70B**.
-> * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** The undisputed leader in ultra-realistic AI voice generation. Features a generous free tier of 10,000 characters per month.
+> * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $350+ in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**.
+> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8** and **DeepSeek V4**.
+> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT-4o**, **Gemini**, and **Llama 3 70B** for free.
+> * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** Really great AI voice generation. Their free tier gives you 10,000 characters every month.
 
 ---
 
@@ -32,57 +32,57 @@ A curated list of hidden AI platforms, proxies, and APIs offering massive free t
 
 ## Large Language Models (LLMs)
 
-* [AgentRouter](https://agentrouter.org/register?aff=qwl4) - API aggregator offering access to Claude (Opus, Sonnet), DeepSeek v4, and GLM-5.1. Provides a massive $175.00 starting bonus.
-* [Freemodel](https://freemodel.dev/invite/FRE-9348d48f) - Offers access to Claude 3 (Opus, Sonnet, Haiku), GPT-5.5, and more. Gives a $100 starting bonus and $10 per 5 hours on their free tier.
-* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) - API aggregator providing access to dozens of models including GPT-4o, Gemini 1.5 Pro, Kimi, Llama 3 70B, and Qwen. Offers an $8 daily allowance and a $100 starting bonus.
-* [FreeLLMAPI](https://freellmapi.co/) - Provides access to 81 free models and 114 endpoints with an incredible allowance of ~1.7B free tokens per month.
-* [Freebuff](https://freebuff.com/) - Ad-supported CLI providing free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. Features unlimited usage supported by terminal text ads ("full mode" for select regions, "limited mode" globally).
-* [Groq](https://console.groq.com/keys) - Ultra-fast LPU inference engine providing free access to open-source models at staggering speeds (Limits: 30 RPM, up to 30,000 TPM, and 14,400 requests/day).
-* [Cohere](https://dashboard.cohere.com/) - Enterprise-grade LLMs and embeddings. Completely free for non-commercial prototyping (Trial key limits: 20 RPM and 1,000 calls/month).
-* [Mistral AI](https://console.mistral.ai/) - Leading European lab. Offers a free "Experiment" tier on La Plateforme with strict rate limits (data may be used for training).
-* [Google AI Studio](https://aistudio.google.com/) - Generous free tier for Gemini models. Offers up to 15 requests per minute and 1 million tokens per minute at zero cost.
-* [Sarvam AI](https://sarvam.ai/) - Indian AI startup offering highly capable Indic language LLMs. New accounts receive a ₹1000 free credit bonus.
+* [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $350+ in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus and then gives you $10 every 5 hours (up to $280/month).
+* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek v4, and GLM-5.1. It comes with a $175.00 starting bonus.
+* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like GPT-4o, Gemini, Kimi, Llama 3 70B, and Qwen. You get an $8 daily allowance and a $100 starting bonus.
+* [FreeLLMAPI](https://freellmapi.co/) Access 81 different free models and 114 endpoints. They give you a huge allowance of around 1.7 billion free tokens each month.
+* [Freebuff](https://freebuff.com/) An ad-supported CLI for free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. It has unlimited usage if you're okay with terminal text ads.
+* [Groq](https://console.groq.com/keys) A super fast LPU engine for open-source models. The free tier limits you to 30 requests per minute and 14,400 requests per day.
+* [Cohere](https://dashboard.cohere.com/) Good for enterprise LLMs and embeddings. It's totally free for non-commercial prototyping (up to 1,000 calls per month).
+* [Mistral AI](https://console.mistral.ai/) They have a free "Experiment" tier on La Plateforme. Just keep in mind the rate limits are strict and they might use your data for training.
+* [Google AI Studio](https://aistudio.google.com/) A really solid free tier for Gemini models. You get up to 15 requests and 1 million tokens per minute for free.
+* [Sarvam AI](https://sarvam.ai/) An Indian AI startup with great Indic language LLMs. New users get a ₹1000 free credit bonus.
 
 ## Image Generation
 
-* [Tensor.art](https://tensor.art/) - Free image generation and model hosting platform. Offers 50 free generation credits daily.
-* [Leonardo.ai](https://leonardo.ai/) - Advanced image generation platform offering 150 fast tokens per day on their free tier.
-* [Stability AI](https://platform.stability.ai/) - Leading open-source generative AI company. Provides 25 free starting credits for their API (~25 free image generations).
-* [Google Flow](https://labs.google/fx/tools/flow) - Free creative studio powered by Imagen 3. Offers a daily allotment of credits for high-fidelity text-to-image creation.
+* [Tensor.art](https://tensor.art/) A free platform for image generation and hosting models. You get 50 free generation credits every day.
+* [Leonardo.ai](https://leonardo.ai/) An image generation tool that gives you 150 fast tokens daily on their free tier.
+* [Stability AI](https://platform.stability.ai/) The company behind Stable Diffusion. They give you 25 free starting credits for their API, which is enough for about 25 image generations.
+* [Google Flow](https://labs.google/fx/tools/flow) A free creative studio using Imagen 3. You get a daily credit allowance to create high-quality images.
 
 ## Audio & Speech
 
-* [Deepgram](https://deepgram.com/) - Fast and accurate speech-to-text API. Offers $200 in free credits for new signups (covers ~45,000+ minutes of audio transcription).
-* [ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt) - High-quality AI voice generator. Offers a free tier with 10,000 characters per month.
-* [Sarvam AI](https://sarvam.ai/) - Provides state-of-the-art Indic Speech-to-Text and Text-to-Speech APIs. Start with a ₹100 free credit bonus.
+* [Deepgram](https://deepgram.com/) A fast speech-to-text API. They offer $200 in free credits when you sign up, which covers over 45,000 minutes of transcription.
+* [ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt) A high-quality voice generator. Their free tier includes 10,000 characters per month.
+* [Sarvam AI](https://sarvam.ai/) They provide Indic Speech-to-Text and Text-to-Speech APIs. You start with a ₹1000 free credit bonus.
 
 ## Embeddings
 
-* [Voyage AI](https://dash.voyageai.com/) - State-of-the-art embedding models optimized for RAG. Extremely generous free monthly token allowance (50M tokens/month).
-* [Jina AI](https://jina.ai/embeddings) - Powerful embeddings API with 10 million free tokens available to test their models.
+* [Voyage AI](https://dash.voyageai.com/) Embedding models optimized for RAG. They have a very generous free tier with 50 million tokens per month.
+* [Jina AI](https://jina.ai/embeddings) A good embeddings API that gives you 10 million free tokens to test things out.
 
 ## Multi-Modal & All-in-One
 
-* [Pollinations.ai](https://pollinations.ai/) - A unified, OpenAI-compatible API for generating text, images, audio, and video. Server-side secret keys have no rate limits, while client-side keys are limited to 1 request/hr per IP.
-* [Hugging Face](https://huggingface.co/settings/tokens) - The hub for ML models. Offers a free Serverless Inference API to test over 100,000 models (dynamic rate limits, roughly under ~5M tokens/mo).
-* [Sarvam AI](https://sarvam.ai/) - A unified platform for Indian language LLMs, speech generation, and document digitization. Offers ₹1000 in starting credits.
+* [Pollinations.ai](https://pollinations.ai/) A single API for generating text, images, audio, and video. Server-side keys don't have rate limits, but client-side keys are limited to 1 request per hour per IP.
+* [Hugging Face](https://huggingface.co/settings/tokens) The main hub for ML models. They offer a free Serverless Inference API so you can test their models (limits are around 5M tokens/month).
+* [Sarvam AI](https://sarvam.ai/) A unified platform for Indian language LLMs, speech, and document digitization. They offer ₹1000 in starting credits.
 
 ## Local Proxies & Gateways
 
-* [gaca-core](https://github.com/gacabartosz/gaca-core) - Universal AI proxy. Clone the repo, add your free API keys from providers like Gemini, Groq, Mistral, Cerebras (no credit card needed anywhere), and point any OpenAI-compatible SDK at localhost.
-* [LiteLLM](https://github.com/BerriAI/litellm) - Run a local proxy server to unify all your free API keys into a single, OpenAI-compatible localhost endpoint.
+* [gaca-core](https://github.com/gacabartosz/gaca-core) A universal AI proxy. You can clone the repo, add your free API keys (like Gemini, Groq, Mistral), and use it as a local OpenAI-compatible endpoint.
+* [LiteLLM](https://github.com/BerriAI/litellm) Lets you run a local server to combine all your free API keys into one OpenAI-compatible endpoint.
 
 ---
 
 ## Contributing
 
-Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Please check out the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## ⭐ Support This Project
 
-If you found this list helpful, please **give it a star** 🌟 on GitHub! It helps others discover these amazing free resources and keeps the project growing. 
+If you found this list helpful, please **give it a star** 🌟 on GitHub! It helps other people find these resources and keeps the project going. 
 
-Share it with your developer friends, or on Twitter/Reddit/Discord to spread the word!
+Feel free to share it with your developer friends, or on Twitter/Reddit/Discord!
 
 ## License
 
