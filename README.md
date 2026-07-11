@@ -12,9 +12,10 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 > 
 > If you want to try out the newest models (like **Claude Opus 4.8**, **GPT-5.5**, and **DeepSeek V4**), start here:
 > 
-> * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $350+ in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**.
-> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8** and **DeepSeek V4**.
-> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT-4o**, **Gemini**, and **Llama 3 70B** for free.
+> * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**. *(Note: recently facing outages for free users)*
+> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8** and **DeepSeek V4**. *(Note: recently facing outages for free users)*
+> * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **Grok 4.5**, **Step 3.7 Flash**, **GLM 4.7 Flash**, and **GLM 4.6V Flash**.
+> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT-4o**, **Gemini**, and **Llama 3 70B** for free. *(Note: recently facing outages for free users)*
 > * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** Really great AI voice generation. Their free tier gives you 10,000 characters every month.
 
 ---
@@ -32,9 +33,9 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 ## Large Language Models (LLMs)
 
-* [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $350+ in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus and then gives you $10 every 5 hours (up to $280/month).
-* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek v4, and GLM-5.1. It comes with a $175.00 starting bonus.
-* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like GPT-4o, Gemini, Kimi, Llama 3 70B, and Qwen. You get an $8 daily allowance and a $100 starting bonus.
+* [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $140 in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus and then gives you $10 every 5 hours (up to $280/month). *(Note: recently facing outages for free users)*
+* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek v4, and GLM-5.1. It comes with a $175.00 starting bonus. *(Note: recently facing outages for free users)*
+* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like GPT-4o, Gemini, Kimi, Llama 3 70B, and Qwen. You get an $8 daily allowance and a $100 starting bonus. *(Note: recently facing outages for free users)*
 * [FreeLLMAPI](https://freellmapi.co/) Access 81 different free models and 114 endpoints. They give you a huge allowance of around 1.7 billion free tokens each month.
 * [Freebuff](https://freebuff.com/) An ad-supported CLI for free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. It has unlimited usage if you're okay with terminal text ads.
 * [Groq](https://console.groq.com/keys) A super fast LPU engine for open-source models. The free tier limits you to 30 requests per minute and 14,400 requests per day.
@@ -42,6 +43,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 * [Mistral AI](https://console.mistral.ai/) They have a free "Experiment" tier on La Plateforme. Just keep in mind the rate limits are strict and they might use your data for training.
 * [Google AI Studio](https://aistudio.google.com/) A really solid free tier for Gemini models. You get up to 15 requests and 1 million tokens per minute for free.
 * [Sarvam AI](https://sarvam.ai/) An Indian AI startup with great Indic language LLMs. New users get a ₹1000 free credit bonus.
+* [Zenmux](https://zenmux.ai/invite/DG81MD) Provides free access to models including Grok 4.5, Step 3.7 Flash, GLM 4.7 Flash, and GLM 4.6V Flash.
 
 ## Image Generation
 
@@ -63,7 +65,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 ## Multi-Modal & All-in-One
 
-* [Pollinations.ai](https://pollinations.ai/) A single API for generating text, images, audio, and video. Server-side keys don't have rate limits, but client-side keys are limited to 1 request per hour per IP.
+* [Pollinations.ai](https://pollinations.ai/) A single API for generating text, images, audio, and video, now featuring **GPT 5.6 Luna, Tera, and Sol**. Server-side keys don't have rate limits, but client-side keys are limited to 1 request per hour per IP.
 * [Hugging Face](https://huggingface.co/settings/tokens) The main hub for ML models. They offer a free Serverless Inference API so you can test their models (limits are around 5M tokens/month).
 * [Sarvam AI](https://sarvam.ai/) A unified platform for Indian language LLMs, speech, and document digitization. They offer ₹1000 in starting credits.
 
