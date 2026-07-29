@@ -12,9 +12,9 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 > 
 > If you want to try out the newest models (like **Claude Opus 4.8**, **GPT 5.6**, and **DeepSeek V4**), start here:
 > 
-> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**. *(Note: recently faci[...]
-> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT 5.5**, **DeepSeek V4 Pro**, and **Z AI GLM5** for free. *(Note: recently facing [...]
-> * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8[...]
+> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**
+> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT 5.5**, **DeepSeek V4 Pro**, and **Z AI GLM5** for free
+> * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**
 > * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **Grok 4.5**, **Step 3.7 Flash**, **GLM 4.7 Flash**, and **GLM 4.6V Flash**.
 > * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** Really great AI voice generation. Their free tier gives you 10,000 characters every month.
 
