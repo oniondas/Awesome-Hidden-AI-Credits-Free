@@ -10,10 +10,10 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 > ### 🌟 Featured Top Picks
 > 
-> If you want to try out the newest models (like **Claude Opus 4.8**, **GPT-5.5**, and **DeepSeek V4**), start here:
+> If you want to try out the newest models (like **Claude Opus 4.8**, **GPT 5.6**, and **DeepSeek V4**), start here:
 > 
-> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8** and **DeepSeek V4**. *(Note: recently faci[...]
-> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT-4o**, **Gemini**, and **Llama 3 70B** for free. *(Note: recently facing [...]
+> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**. *(Note: recently faci[...]
+> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT 5.5**, **DeepSeek V4 Pro**, and **Z AI GLM5** for free. *(Note: recently facing [...]
 > * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8[...]
 > * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **Grok 4.5**, **Step 3.7 Flash**, **GLM 4.7 Flash**, and **GLM 4.6V Flash**.
 > * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** Really great AI voice generation. Their free tier gives you 10,000 characters every month.
@@ -34,8 +34,8 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 ## Large Language Models (LLMs)
 
 * [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $140 in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus and then[...]
-* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek v4, and GLM-5.1. It comes with a $175.00 starting bonus. *(Note: r[...]
-* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like GPT-4o, Gemini, Kimi, Llama 3 70B, and Qwen. You get an $8 daily allowance and a $100 starting [...]
+* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek V4, and GLM 5.1. It comes with a $175.00 starting bonus and instant access to models such as **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**. *(Note: r[...]
+* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like **GPT 5.5**, **DeepSeek V4 Pro**, **Z AI GLM5**, and Qwen. You get an $8 daily allowance and a $100 starting [...]
 * [FreeLLMAPI](https://freellmapi.co/) Access 81 different free models and 114 endpoints. They give you a huge allowance of around 1.7 billion free tokens each month.
 * [Freebuff](https://freebuff.com/) An ad-supported CLI for free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. It has unlimited usage if you're okay with terminal text ads.
 * [Groq](https://console.groq.com/keys) A super fast LPU engine for open-source models. The free tier limits you to 30 requests per minute and 14,400 requests per day.
