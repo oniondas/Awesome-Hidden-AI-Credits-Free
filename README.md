@@ -16,7 +16,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 > * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT 5.5**, **DeepSeek V4 Pro**, and **Z AI GLM5** for free
 > * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**
 > * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **Grok 4.5**, **Step 3.7 Flash**, **GLM 4.7 Flash**, and **GLM 4.6V Flash**.
-> * **[ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt):** Really great AI voice generation. Their free tier gives you 10,000 characters every month.
+> * **[Fish Audio](https://fish.audio/?aff=5L4U4NBNLNSEC):** Free unlimited S2.1 Pro TTS API (Valid until 31st Aug).
 
 ---
 
@@ -55,7 +55,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 ## Audio & Speech
 
 * [Deepgram](https://deepgram.com/) A fast speech-to-text API. They offer $200 in free credits when you sign up, which covers over 45,000 minutes of transcription.
-* [ElevenLabs](https://try.elevenlabs.io/qam2drd83gtt) A high-quality voice generator. Their free tier includes 10,000 characters per month.
+* [Fish Audio](https://fish.audio/?aff=5L4U4NBNLNSEC) Free unlimited S2.1 Pro TTS API (Valid until 31st Aug).
 * [Sarvam AI](https://sarvam.ai/) They provide Indic Speech-to-Text and Text-to-Speech APIs. You start with a ₹1000 free credit bonus.
 
 ## Embeddings
