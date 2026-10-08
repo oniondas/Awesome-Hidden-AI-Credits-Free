@@ -39,6 +39,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 * [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek V4, and GLM 5.1. It comes with a $175.00 starting bonus and instant access to models such as **Claude Opus 4.8**, **Claude Opus 5**, **This works based on their timing/availability**
 
 * [FreeLLMAPI](https://freellmapi.co/) Access 81 different free models and 114 endpoints. They give you a huge allowance of around 1.7 billion free tokens each month.
+* [Gonka AI Drop](https://aidrop.gnk.space/) Welcome bonuses from the brokers of the Gonka decentralized GPU network for DeepSeek V4-Flash, GLM-5.3-Flash and MiniMax M2.7. Gonka DAHL gives 100 million free tokens on a username-only sign-up, no card.
 * [Freebuff](https://freebuff.com/) An ad-supported CLI for free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. It has unlimited usage if you're okay with terminal text ads.
 * [Groq](https://console.groq.com/keys) A super fast LPU engine for open-source models. The free tier limits you to 30 requests per minute and 14,400 requests per day.
 * [Cohere](https://dashboard.cohere.com/) Good for enterprise LLMs and embeddings. It's totally free for non-commercial prototyping (up to 1,000 calls per month).
