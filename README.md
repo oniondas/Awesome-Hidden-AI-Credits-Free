@@ -48,6 +48,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 * [Zenmux](https://zenmux.ai/invite/DG81MD) Provides free access to models including deepseek/deepseek-v4-flash-vision-exp-free and z-ai/glm-5.3-free.
 * [OpenRouter](https://openrouter.ai/) A unified model gateway offering free access to models including stealth/ox-alpha.
 * [TokenRouter](https://www.tokenrouter.com/models/) An API aggregator providing free access to models including qwen/qwen3.8-max-free.
+* [cheapllm.shop](https://cheapllm.shop/) OpenAI- and Anthropic-compatible API for DeepSeek V4.1 Flash. Free with no rate limit during the current beta; after the beta every account keeps a permanent free tier of at least 5,000 input and 1,000 output tokens per hour. No credit card.
 
 ## Image Generation
 
