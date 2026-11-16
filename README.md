@@ -71,6 +71,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 * [Pollinations.ai](https://pollinations.ai/) A single API for generating text, images, audio, and video, now featuring **GPT 5.6 Luna, Tera, and Sol**. Server-side keys don't have rate limits, bu[...]
 * [Hugging Face](https://huggingface.co/settings/tokens) The main hub for ML models. They offer a free Serverless Inference API so you can test their models (limits are around 5M tokens/month).
+* [Perq](https://perq.sh) A directory of verified free AI credits and startup perks, also usable by agents through an MCP server and skill.
 * [Sarvam AI](https://sarvam.ai/) A unified platform for Indian language LLMs, speech, and document digitization. They offer ₹1000 in starting credits.
 
 ## Local Proxies & Gateways
