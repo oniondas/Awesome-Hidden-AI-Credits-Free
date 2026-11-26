@@ -55,6 +55,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 * [Leonardo.ai](https://leonardo.ai/) An image generation tool that gives you 150 fast tokens daily on their free tier.
 * [Stability AI](https://platform.stability.ai/) The company behind Stable Diffusion. They give you 25 free starting credits for their API, which is enough for about 25 image generations.
 * [Google Flow](https://labs.google/fx/tools/flow) A free creative studio using Imagen 3. You get a daily credit allowance to create high-quality images.
+* [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - 3 free daily FLUX.2 image generations with no login or credit card required + 10 watermark-free welcome credits on signup, plus a free ad-free browser-local WebGPU PSD editor.
 
 ## Audio & Speech
 
