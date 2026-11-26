@@ -12,6 +12,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 > 
 > If you want to try out the newest models (like **Claude Opus 5**, **GPT 5.6**, and **GPT Astra**), start here:
 > 
+> * **[camelCode](https://camelai.com/code):** Free AI workspace with DeepSeek V4 Auto, 5 GB of storage, hosting for 3 apps on Cloudflare, and 50+ connections.
 > * **[OmniRush](https://omnirush.ai/console?ref=D633FH86):** A desktop app and CLI offering instant access to **GPT 6 Astra**, **GPT 6 Sol**, and **GPT-5.6 Sol** with a 5M daily token limit (up to 15M weekly).
 > * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**
 > * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models as of now no frontier model
