@@ -48,6 +48,7 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 * [Zenmux](https://zenmux.ai/invite/DG81MD) Provides free access to models including deepseek/deepseek-v4-flash-vision-exp-free and z-ai/glm-5.3-free.
 * [OpenRouter](https://openrouter.ai/) A unified model gateway offering free access to models including stealth/ox-alpha.
 * [TokenRouter](https://www.tokenrouter.com/models/) An API aggregator providing free access to models including qwen/qwen3.8-max-free.
+* [Beiluo API](https://beiluoxi.xyz/daily-checkin) - Registered users can claim $0.01–$0.10 in API credit each day, with an additional $0.20–$0.30 after seven consecutive check-ins. Model requests are metered.
 
 ## Image Generation
 
